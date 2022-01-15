@@ -3,7 +3,7 @@ import { string } from "prop-types";
 
 const defaultContent = "";
 const ogImage =
-  "https://res.cloudinary.com/george-swift/image/upload/v1637283133/travel-hunter_syvzhf.png";
+  "https://res.cloudinary.com/george-swift/image/upload/v1642277804/travel-hunter_weesqm.png";
 
 const Head = (props) => (
   <NextHead>
