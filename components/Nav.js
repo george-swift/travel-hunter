@@ -10,7 +10,7 @@ const Nav = ({ authed }) => (
       <Link href="/">
         <a className="brand">
           <MdTravelExplore />
-          Travel Hunter
+          Travel Planner
         </a>
       </Link>
       <div>
