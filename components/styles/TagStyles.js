@@ -14,10 +14,10 @@ const TagStyles = styled.span`
   border-radius: 5px;
   text-transform: capitalize;
   font-weight: 500;
-  font-size: 0.75rem;
+  font-size: 0.525rem;
 
   svg {
-    margin-right: 0.35rem;
+    margin-right: 0.3rem;
   }
 `;
 
