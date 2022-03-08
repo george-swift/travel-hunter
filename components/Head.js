@@ -2,7 +2,7 @@ import NextHead from "next/head";
 import { string } from "prop-types";
 
 const ogImage =
-  "https://res.cloudinary.com/george-swift/image/upload/v1642277804/travel-hunter_weesqm.png";
+  "https://res.cloudinary.com/george-swift/image/upload/v1646747664/bucketlist_cniumi.webp";
 
 const Head = (props) => (
   <NextHead>
