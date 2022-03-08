@@ -1,14 +1,13 @@
 import NextHead from "next/head";
 import { string } from "prop-types";
 
-const defaultContent = "";
 const ogImage =
   "https://res.cloudinary.com/george-swift/image/upload/v1642277804/travel-hunter_weesqm.png";
 
 const Head = (props) => (
   <NextHead>
     <meta charSet="UTF-8" />
-    <title>{props.title || defaultContent}</title>
+    <title>{props.title}</title>
     <meta name="description" content="Personal Travel Planner" />
     <meta name="image" property="og:image" content={ogImage} />
     <link rel="icon" href="/favicon/favicon.ico" />

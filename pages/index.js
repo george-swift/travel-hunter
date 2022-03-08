@@ -56,7 +56,7 @@ export default function Home() {
 
   return (
     <div>
-      <Head title="Travel hunter" />
+      <Head title="Travel Planner" />
 
       <Nav authed={authed} />
 
